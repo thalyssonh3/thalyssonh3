@@ -1,4 +1,4 @@
-<div align="center"><img align="center" width="280" alt="welcome-message" src="https://media.tenor.com/cryr6VPdAZkAAAAj/welcome-hello.gif"></div>
+<div align="center"><img align="center" width="220" alt="welcome-message" src="https://media.tenor.com/UdMNNyr9BgIAAAAj/discord-discordgifemoji.gif"></div>
 <br>
 <br>
 <p align="Center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="270" width ="350px"></p>
