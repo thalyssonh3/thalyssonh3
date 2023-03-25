@@ -12,9 +12,9 @@ Thalysson Oliveira </a> <img src="https://emojis.slackmojis.com/emojis/images/15
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif"/>
 </a>
 
-- 🔭 I'm looking for a job. :octocat:
+- 🔭 I'm looking for a job. :octocat:</h4>
 
-- 🌱 I have been concentrating on ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+- :fire: I have been concentrating on ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 - 💻 I’m available for freelancing. <img src="https://media.tenor.com/yFi06hL-W1IAAAAC/smiley.gif)" alt="doll-with-coffee" width="40">
 
