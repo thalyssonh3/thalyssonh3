@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 😎, I'm Thalysson Oliveira</h1>
-<h3 align="center">A passionate Front-End Developer from Brazil</h3>
+<h3 align="center">A passionate Front-End Developer from Brazil 🇧🇷❤</h3>
 
 <img align="right" alt="Coding" height="200px" width="250px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
