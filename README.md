@@ -1,7 +1,7 @@
 <div align="center"><img align="center" width="280" alt="welcome-message" src="https://media.tenor.com/cryr6VPdAZkAAAAj/welcome-hello.gif"></div>
 <br>
 <br>
-<p align="Center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="270" width ="350px"></p>
+<p align="Center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="270" width ="350px"></p>
 <h1 align="center">:point_right: Hello World <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>
 I'm <a href="https://github.com/StephaniEngell?tab=repositories/" target="blank">
 
