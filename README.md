@@ -1,7 +1,7 @@
 <div align="center"><img align="center" width="220" alt="welcome-message" src="https://media.tenor.com/UdMNNyr9BgIAAAAj/discord-discordgifemoji.gif"></div>
 <br>
 <br>
-<p align="Center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="270" width ="350px"></p>
+<p align="Center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="270" width ="380px"></p>
 <h1 align="center">:point_right: Hello World <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>
 I'm <a href="https://github.com/StephaniEngell?tab=repositories/" target="blank">
 
@@ -16,9 +16,9 @@ Thalysson Oliveira </a> <img src="https://emojis.slackmojis.com/emojis/images/15
 
 - :fire: I have been concentrating on ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
-- 💻 I’m available for freelancing. <img src="https://media.tenor.com/yFi06hL-W1IAAAAC/smiley.gif)" alt="doll-with-coffee" width="40">
+- 💻 I’m available for freelancing. <img src="https://media.tenor.com/S8pZzUQfwdwAAAAi/nuevacreative-smile.gif" alt="yellow-smile-emoji" width="18">
 
-- 🌱 I’m currently learning about Front-End on <a href="https://plataforma.devclub.com.br/area/vitrine" target="blank">DevClub</a>
+- 🌱 I’m currently learning about Front-End on <a href="https://plataforma.devclub.com.br/area/vitrine" target="blank">DevClub</a> <img src="https://media.tenor.com/X89HcD93448AAAAj/kstr-kochstrasse.gif" width="20">
 
 - 📫 How to reach me: *thalysson.h3silva@gmail.com*
 
@@ -40,7 +40,7 @@ Thalysson Oliveira </a> <img src="https://emojis.slackmojis.com/emojis/images/15
 <p align="center">
 
 <p  align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/><i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+ <img src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" width="30px" alt="GitHub-Status"/><i><b>GitHub Stats</b></i><img src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" width="30px" alt="GitHub-Status"/>
  </p>
  
 
