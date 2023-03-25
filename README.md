@@ -1,6 +1,8 @@
 <h1 align="center">Hello World 😎, I'm Thalysson Oliveira</h1>
 <h3 align="center">A passionate Front-End Developer from Brazil</h3>
 
+<img align="right" alt="Coding" height="200px" width="250px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalyssonh3&label=Profile%20views&color=0e75b6&style=flat" alt="thalyssonh3" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, React and Node.**
@@ -10,6 +12,7 @@
 - 💬 Ask me about **GitHub, HTML, CSS and etc...**
 
 - 📫 How to reach me **thalysson.h3silva@gmail.com**
+<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
