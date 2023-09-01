@@ -2,9 +2,8 @@
 <br>
 <br>
 <p align="Center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="270" width ="380px"></p>
-<h1 align="center">:point_right: Hello World <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>
-I'm <a href="https://github.com/StephaniEngell?tab=repositories/" target="blank">
-
+<h1 align="center">:point_right: Hello World! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>
+<br>I'm <a href="https://github.com/thalyssonh3?tab=repositories" target="blank">
 Thalysson Oliveira </a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 <h3 align="center">A passionate Front-End Developer from Campina Grande-PB, Brazil <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg" width="21" height="20"></h3>
 <a target="_blank" align="center">
